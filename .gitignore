@@ -1,5 +1,7 @@
 # Ignorar la carpeta .vs
 .vs/
+obj/Debug/net8.0/Tareas.AssemblyInfo.cs
+obj/Debug/net8.0/Tareas.AssemblyInfoInputs.cache
 
 # Ignorar archivos de compilación
 bin/
