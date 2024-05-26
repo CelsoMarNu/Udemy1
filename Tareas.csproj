@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tarea_1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>warnings</Nullable>
+    <OutputType>Exe</OutputType>
+    <StartupObject>Tareas.Tarea_5</StartupObject>
+  </PropertyGroup>
+
+</Project>
